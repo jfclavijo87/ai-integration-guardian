@@ -1,0 +1,34 @@
+CASO DE NEGOCIO: MANTENIMIENTO PREDICTIVO DE PRENSAS
+
+Empresa: Forjas del Centro S.A.S.
+Fase: prueba de concepto
+Fecha del documento: 20 de junio de 2026
+
+1. RESPONSABILIDAD
+
+Miguel Torres, gerente de Mantenimiento, es responsable del resultado de negocio y puede detener la prueba. Miguel Torres confirmó por escrito esta responsabilidad el 19 de junio de 2026.
+
+2. PROBLEMA Y MÉTRICA
+
+Durante los últimos doce meses, las cuatro prensas acumularon 312 horas de parada no planificada y un coste directo de 141.000 euros. La prueba de concepto será satisfactoria si detecta al menos el 70 % de los eventos conocidos con un máximo de dos falsas alertas por máquina y semana, usando datos históricos separados del entrenamiento.
+
+3. DATOS
+
+La empresa conserva 26 meses de temperatura, vibración y presión con una lectura por minuto. El análisis de completitud registra 97,2 % de valores disponibles. El contrato de compra de las prensas transfiere a Forjas del Centro la propiedad y el derecho de explotación de los datos generados. Miguel Torres validó el inventario de señales y el contrato el 18 de junio de 2026.
+
+4. INTEGRACIÓN Y SUPERVISIÓN
+
+La prueba será offline y no controlará las máquinas. Las alertas se compararán con órdenes históricas de mantenimiento. Antes de cualquier uso operativo, un técnico deberá confirmar cada alerta y crear la orden en el sistema existente.
+
+5. PRIVACIDAD Y SEGURIDAD
+
+Las señales describen máquinas y no personas. Los identificadores de los técnicos fueron eliminados del conjunto. Tecnología aprobó una carpeta cifrada con acceso para tres integrantes del equipo y eliminación al finalizar la prueba.
+
+6. COSTE, ALTERNATIVA Y SALIDA
+
+El límite de gasto es 9.500 euros, incluyendo 6.000 de proveedor, 2.000 de tiempo interno y 1.500 de contingencia. La alternativa de alarmas por umbral se probará sobre el mismo conjunto. La prueba se detendrá si excede 9.500 euros o si después de dos iteraciones no supera las alarmas por umbral en detección y falsas alertas.
+
+VALIDACIÓN
+
+Miguel Torres validó las secciones 1, 2, 3 y 6. Ana Beltrán, directora de Tecnología, validó las secciones 4 y 5 el 20 de junio de 2026.
+

@@ -1,0 +1,34 @@
+CASO DE NEGOCIO: INSPECCIÓN VISUAL DE DEFECTOS
+
+Empresa: Metálicas Norte S.L.
+Fase: piloto
+Fecha del documento: 15 de junio de 2026
+
+1. RESPONSABILIDAD DE NEGOCIO
+
+La responsable del resultado de negocio es Laura Gómez, directora de Operaciones. Laura Gómez tiene autoridad para detener el piloto y acepta por escrito responder por la reducción de defectos y por el gasto del proyecto.
+
+2. PROBLEMA, LÍNEA BASE Y OBJETIVO
+
+Entre enero y mayo de 2026, el 4,8 % de las 42.000 piezas inspeccionadas fue rechazado por defectos superficiales. El coste directo documentado de reproceso y desperdicio fue de 96.000 euros. El piloto pretende reducir la tasa de rechazo al 3,8 % o menos durante ocho semanas, sin aumentar los falsos negativos por encima del 1 %.
+
+3. DATOS
+
+El conjunto inicial contiene 18.400 imágenes tomadas en la línea 2 y etiquetadas por dos inspectores. El muestreo interno encontró un acuerdo del 94 % entre etiquetas. Metálicas Norte es propietaria de las cámaras y de las imágenes. El contrato MN-2026-14 confirma el derecho de usar las imágenes para entrenamiento, evaluación y operación del modelo. Laura Gómez validó el inventario y el derecho de uso el 12 de junio de 2026.
+
+4. INTEGRACIÓN Y SUPERVISIÓN
+
+El modelo mostrará una alerta al inspector y no retirará piezas automáticamente. Cuando el modelo y el inspector discrepen, la pieza pasará a una segunda inspección manual. El jefe de Calidad revisará semanalmente falsos positivos, falsos negativos y causas de discrepancia.
+
+5. PRIVACIDAD, SEGURIDAD Y DERECHOS
+
+Las imágenes enfocan exclusivamente piezas y no capturan rostros, matrículas ni identificadores personales. Los archivos se almacenarán en el servidor interno con acceso limitado a Calidad y Tecnología. El responsable de Seguridad revisó el flujo el 10 de junio de 2026 y no identificó tratamiento de datos personales.
+
+6. COSTE, ALTERNATIVA Y ABANDONO
+
+El presupuesto máximo es de 24.800 euros: 12.000 de proveedor, 4.500 de cámaras e integración, 5.300 de tiempo interno y 3.000 de contingencia. Se comparó con una segunda inspección manual, cuyo coste estimado es 38.000 euros al año. El piloto se detendrá si supera 24.800 euros, si los falsos negativos exceden el 1 % durante dos semanas o si al final de la semana 8 la tasa de rechazo no baja al 3,8 %.
+
+APROBACIONES DE EVIDENCIA
+
+Laura Gómez, directora de Operaciones, validó las secciones 1, 2, 3 y 6 el 15 de junio de 2026. Carlos Prieto, jefe de Calidad, validó la sección 4. Elena Marín, responsable de Seguridad, validó la sección 5.
+

@@ -1,0 +1,14 @@
+{
+  "phase": "PILOTO",
+  "expected_controls": {
+    "C1": "CUMPLE",
+    "C2": "NO CUMPLE",
+    "C3": "CUMPLE",
+    "C4": "CUMPLE",
+    "C5": "CUMPLE",
+    "C6": "CUMPLE"
+  },
+  "expected_recommendation": "NO CONTINUAR",
+  "seeded_defect": "La mejora se expresa como porcentaje sin línea base, objetivo medible ni horizonte."
+}
+

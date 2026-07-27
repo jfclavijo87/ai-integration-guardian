@@ -1,0 +1,34 @@
+CASO DE NEGOCIO: CLASIFICACIÓN AUTOMÁTICA DE DEFECTOS
+
+Empresa: Componentes Delta S.A.
+Fase: piloto
+Fecha del documento: 30 de junio de 2026
+
+1. RESPONSABILIDAD
+
+Silvia Martín, directora de Calidad, responde personalmente por el resultado y puede detener el piloto. Firmó la aceptación el 29 de junio de 2026.
+
+2. PROBLEMA Y MÉTRICA
+
+El área de Calidad considera que se producen demasiados defectos y que la inspección consume mucho tiempo. El proveedor estima que la inteligencia artificial reducirá los defectos un 40 % y mejorará significativamente la eficiencia. No se ha medido la tasa actual de defectos, el tiempo actual de inspección ni su coste. El documento no fija un valor objetivo medible ni un horizonte para alcanzarlo.
+
+3. DATOS
+
+La empresa dispone de 22.000 fotografías propias, con permiso de uso y etiquetas revisadas. Silvia Martín validó el inventario, la calidad de la muestra y el derecho de uso el 28 de junio de 2026.
+
+4. INTEGRACIÓN Y SUPERVISIÓN
+
+El sistema recomendará una categoría y el inspector tomará la decisión final. Las discrepancias se enviarán al jefe de turno para revisión.
+
+5. PRIVACIDAD Y SEGURIDAD
+
+Las imágenes solo contienen componentes. Seguridad validó almacenamiento interno, acceso por roles y eliminación de copias del proveedor al terminar el piloto.
+
+6. COSTE Y ABANDONO
+
+El límite total es 18.000 euros, con integración, licencias, tiempo interno y contingencia incluidos. Se comparará con una mejora de iluminación y una plantilla visual. El piloto se detendrá si supera el presupuesto o si la revisión humana detecta más de 1 % de falsos negativos.
+
+VALIDACIÓN
+
+Silvia Martín validó las secciones 1, 3, 4 y 6. Seguridad validó la sección 5. Nadie pudo validar una línea base ni un objetivo medible para la sección 2.
+

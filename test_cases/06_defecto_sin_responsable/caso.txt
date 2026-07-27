@@ -1,0 +1,34 @@
+CASO DE NEGOCIO: OPTIMIZACIÓN DEL CONSUMO EN HORNOS
+
+Empresa: Cerámicas Sol S.L.
+Fase: piloto
+Fecha del documento: 3 de julio de 2026
+
+1. RESPONSABILIDAD
+
+El equipo de Transformación Digital será responsable del proyecto. Tecnología coordinará al proveedor y Producción colaborará cuando sea necesario. No se identifica a una persona que responda por el ahorro energético, pueda aceptar el resultado o tenga autoridad para detener el piloto.
+
+2. PROBLEMA Y MÉTRICA
+
+Los seis hornos consumieron 2,4 GWh y 408.000 euros en los últimos doce meses. El piloto pretende reducir el consumo por tonelada un 6 % durante diez semanas sin alterar la tasa de producto conforme.
+
+3. DATOS
+
+La empresa dispone de 30 meses de temperaturas, ciclos, recetas y consumo eléctrico. Cerámicas Sol es propietaria de los sensores y registros. Producción y Tecnología validaron disponibilidad, completitud del 96 % y derecho de uso.
+
+4. INTEGRACIÓN Y SUPERVISIÓN
+
+El modelo propondrá ajustes, pero el jefe de turno deberá aprobarlos. Ante una discrepancia o condición insegura prevalecerá el procedimiento operativo y se bloqueará la recomendación.
+
+5. PRIVACIDAD Y SEGURIDAD
+
+Los datos describen equipos. Seguridad validó el acceso por roles, el registro de cambios y la prohibición de control automático durante el piloto.
+
+6. COSTE Y ABANDONO
+
+El presupuesto máximo es 28.000 euros e incluye proveedor, integración, medición, tiempo interno y contingencia. Se comparará con ajustes manuales de recetas. El piloto se detendrá si supera el presupuesto, si reduce la conformidad o si en la semana 6 no muestra una reducción mínima del 3 %.
+
+VALIDACIÓN
+
+Producción validó las secciones 2, 3 y 4. Seguridad validó la sección 5. Finanzas validó el presupuesto de la sección 6. Ninguna persona aceptó la responsabilidad descrita en C1.
+

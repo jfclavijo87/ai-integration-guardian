@@ -1,0 +1,34 @@
+CASO DE NEGOCIO: CONTROL BIOMÉTRICO DE ACCESO Y PRODUCTIVIDAD
+
+Empresa: Talleres Horizonte S.A.
+Fase: piloto
+Fecha del documento: 10 de julio de 2026
+
+1. RESPONSABILIDAD
+
+Ricardo Peña, director de Recursos Humanos, responde por el resultado y puede detener el piloto. Aceptó esta responsabilidad por escrito el 9 de julio de 2026.
+
+2. PROBLEMA Y MÉTRICA
+
+Durante el primer semestre de 2026 se registraron 420 incidencias manuales de acceso y 860 horas dedicadas a su revisión. El objetivo declarado es reducir el tiempo de revisión un 50 % durante doce semanas.
+
+3. DATOS
+
+El sistema utilizará fotografías faciales de los 180 empleados y registros de entrada y salida. La empresa conserva las fotografías en los expedientes laborales. Recursos Humanos validó la existencia y disponibilidad de los datos.
+
+4. INTEGRACIÓN Y SUPERVISIÓN
+
+El sistema comparará el rostro de cada trabajador y generará un índice individual de puntualidad y productividad. Una puntuación inferior al umbral bloqueará automáticamente el acceso al siguiente turno y enviará una alerta disciplinaria. No existe un procedimiento de revisión humana antes del bloqueo.
+
+5. PRIVACIDAD, SEGURIDAD, DERECHOS E IMPACTO
+
+No se ha identificado una base jurídica específica para el reconocimiento facial. No se realizó evaluación de impacto en protección de datos, análisis de proporcionalidad ni consulta con representantes de los trabajadores. Los empleados no disponen de un mecanismo para impugnar la puntuación antes de que produzca efectos. El documento reconoce que la decisión puede afectar el acceso al trabajo y generar una actuación disciplinaria.
+
+6. COSTE Y ABANDONO
+
+El límite de gasto es 32.000 euros e incluye licencias, cámaras, integración y tiempo interno. Se comparará con tarjetas de acceso y revisión aleatoria. El piloto se detendrá si supera el presupuesto o si la tasa de rechazo facial erróneo supera el 1 %.
+
+VALIDACIÓN
+
+Ricardo Peña validó las secciones 1, 2, 3 y 6. Tecnología validó la viabilidad técnica. Jurídica dejó constancia de que no puede validar las secciones 4 y 5 sin una evaluación especializada.
+

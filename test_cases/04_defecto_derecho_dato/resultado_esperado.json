@@ -1,0 +1,14 @@
+{
+  "phase": "PILOTO",
+  "expected_controls": {
+    "C1": "CUMPLE",
+    "C2": "CUMPLE",
+    "C3": "NO CUMPLE",
+    "C4": "CUMPLE",
+    "C5": "CUMPLE",
+    "C6": "CUMPLE"
+  },
+  "expected_recommendation": "REFORMULAR",
+  "seeded_defect": "El contrato no acredita propiedad, exportación ni derecho de uso del dato."
+}
+

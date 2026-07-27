@@ -1,0 +1,14 @@
+{
+  "phase": "PILOTO",
+  "expected_controls": {
+    "C1": "CUMPLE",
+    "C2": "CUMPLE",
+    "C3": "DESCONOCIDO",
+    "C4": "NO CUMPLE",
+    "C5": "NO CUMPLE",
+    "C6": "CUMPLE"
+  },
+  "expected_recommendation": "REVISIÓN ESPECIALIZADA",
+  "expected_rights_impact": true,
+  "test": "P-05"
+}

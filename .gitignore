@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+outputs/*.json
+outputs/*.md
+.streamlit/secrets.toml
+sources/
+entregables/rendered*/
+entregables/*.pdf
+entregables/*.docx

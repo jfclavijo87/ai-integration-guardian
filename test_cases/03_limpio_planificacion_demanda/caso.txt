@@ -1,0 +1,33 @@
+CASO DE NEGOCIO: APOYO A LA PLANIFICACIÓN DE DEMANDA
+
+Empresa: Envases Rivera Ltda.
+Fase: idea
+Fecha del documento: 24 de junio de 2026
+
+1. RESPONSABILIDAD
+
+Paula Ríos, directora Comercial, responderá por la reducción del error de planificación y tiene autoridad para cancelar la iniciativa. Aceptó esta responsabilidad por escrito el 23 de junio de 2026.
+
+2. PROBLEMA Y OBJETIVO
+
+En 2025 el error absoluto porcentual medio de la previsión mensual fue 31 %, medido sobre 84 referencias. Las roturas de inventario asociadas representaron 47.000 euros de ventas no atendidas. La fase de descubrimiento deberá determinar si es posible reducir el error por debajo del 24 % en una validación retrospectiva de seis meses.
+
+3. DATOS
+
+Se dispone de 36 meses de pedidos, devoluciones, precios y promociones. La empresa es propietaria de los registros. El responsable del ERP confirmó acceso de lectura y documentó 2,1 % de valores faltantes en promociones. Paula Ríos validó el inventario el 23 de junio de 2026.
+
+4. INTEGRACIÓN Y SUPERVISIÓN
+
+Durante descubrimiento no habrá integración operativa. Si la iniciativa avanza, la previsión será una recomendación y el planificador conservará la decisión final, registrando toda modificación.
+
+5. PRIVACIDAD Y SEGURIDAD
+
+El conjunto se agregará por cliente y mes antes del análisis, sin nombres, correos ni datos de contacto. Seguridad autorizó un entorno de prueba separado y una retención máxima de noventa días.
+
+6. COSTE Y ALTERNATIVA
+
+La fase de descubrimiento tiene un límite de 4.000 euros. Se comparará el posible modelo con promedio móvil y suavizado exponencial. La fase se cerrará si no puede construir una validación retrospectiva reproducible antes del día 20 o si supera el presupuesto.
+
+VALIDACIÓN
+
+Paula Ríos validó las secciones 1, 2, 4 y 6. Sergio Cano, responsable del ERP, validó la disponibilidad, calidad y derecho de uso descritos en la sección 3. Marta León, responsable de Seguridad, validó la sección 5.

@@ -1,0 +1,10 @@
+{
+  "phase": "ESCALADO",
+  "business_owner": "juan fernando clavijo, líder del proyecto",
+  "requested_decision": "Autorizar el paso del MVP académico a un piloto empresarial controlado.",
+  "expected_recommendation": "NO DECIDIBLE - FALTA EVIDENCIA",
+  "expected_key_gap": "La propuesta no contiene una línea base obtenida en uso real que permita medir objeciones válidas, concordancia con expertos o valor operativo.",
+  "test": "P-07",
+  "note": "La evaluación puede identificar controles adicionales. No se fuerza una única clasificación porque el objeto evaluado es la propia especificación del agente."
+}
+
