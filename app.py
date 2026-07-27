@@ -99,8 +99,16 @@ SAMPLE_CASES = {
 with st.sidebar:
     st.header("Configuración")
     mode = st.radio("Modo", ["Gemini", "Demostración sin API"], index=0)
-    default_key = configured_value("GEMINI_API_KEY")
-    api_key = st.text_input("Clave de Gemini", value=default_key, type="password", help="Se utiliza solo durante esta sesión.")
+    stored_key = configured_value("GEMINI_API_KEY")
+    entered_key = st.text_input(
+        "Clave de Gemini (opcional)",
+        value="",
+        type="password",
+        help="Déjela vacía para utilizar la clave privada configurada en el servidor.",
+    )
+    api_key = entered_key.strip() or stored_key
+    if stored_key and not entered_key:
+        st.caption("Clave privada del servidor configurada.")
     model = st.text_input("Modelo", value=configured_value("GEMINI_MODEL", "gemini-3.5-flash-lite"))
     run_count = st.select_slider("Corridas de calibración", options=[1, 3, 5], value=3)
     st.warning("Utilice únicamente documentos sintéticos o anonimizados.")
